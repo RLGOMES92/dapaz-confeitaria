@@ -1,0 +1,26 @@
+{
+  "name": "Doce Arte — Confeitaria Artesanal",
+  "short_name": "Doce Arte",
+  "description": "Bolos de pote e encomendas artesanais com entrega no condomínio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F3",
+  "theme_color": "#C4826A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "shopping"],
+  "lang": "pt-BR"
+}
