@@ -1,2 +1,22 @@
-.vercel
-node_modules
+.vercel/
+.next/
+out/
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Logs / temporary files
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript / build artifacts
+*.tsbuildinfo
